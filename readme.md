@@ -1,7 +1,7 @@
 <p align="left"> 
-  <!--<a href="http://twitter.com/yutkat">-->
+  <!--<a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/keisuke2000_?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a>-->
   <a href="https://github.com/AyuAkabane">
     <img height="20" src="https://img.shields.io/github/followers/AyuAkabane?label=follow&logo=github&style=flat" />
   </a>
